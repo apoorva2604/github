@@ -1,3 +1,4 @@
+echo "this is today"
 echo  "cobol1"
 echo  "cobol1 again"
 echo "stagged"
